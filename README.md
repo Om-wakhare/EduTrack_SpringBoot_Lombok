@@ -5,7 +5,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.0-brightgreen.svg)
 ![Java](https://img.shields.io/badge/Java-24-orange.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 *A comprehensive Spring Boot REST API application for enterprise-grade batch management with MongoDB integration*
 
