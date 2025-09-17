@@ -1,4 +1,4 @@
-# Marvellous Portal
+# EduTrack_SpringBoot_Lombok
 
 <div align="center">
 
